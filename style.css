@@ -1,0 +1,11 @@
+ul.tipocircle{
+    list-style-type: circle;
+}
+
+ol.tipoI{
+    list-style-type: upper-roman;
+}
+
+ol.tipoa{
+    list-style-type: lower-alpha;
+}
